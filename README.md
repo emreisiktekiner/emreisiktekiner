@@ -1,4 +1,4 @@
-![alt text](https://github.com/[emreisiktekiner]/[emreisiktekiner]/blob/[main]/Cover.jpg?raw=true)
+![alt text](https://github.com/emreisiktekiner/emreisiktekiner/blob/main/Cover.jpg?raw=true)
 
 
 - 👋 Hi, I’m @emreisiktekiner
