@@ -1,8 +1,8 @@
 ![alt text](https://github.com/emreisiktekiner/emreisiktekiner/blob/main/Cover.png?raw=true)
 
 <h1 align="center">
-## - Hi there, I’m Emre 👋
-## - Reach Me: www.emreisiktekiner.com 📫
+Hi there, I’m Emre 👋
+www.emreisiktekiner.com 📫
   </h1>
 
 <!---
