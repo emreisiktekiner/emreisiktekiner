@@ -1,7 +1,7 @@
 ![alt text](https://github.com/emreisiktekiner/emreisiktekiner/blob/main/Cover.png?raw=true)
 
 <h1 align="center">
-Hi there, I’m Emre 👋
+Hi there, I’m Emre 👋 <br>
 www.emreisiktekiner.com 📫
   </h1>
 
