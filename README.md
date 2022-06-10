@@ -1,3 +1,6 @@
+![alt text](https://github.com/[emreisiktekiner]/[emreisiktekiner]/blob/[branch]/image.jpg?raw=true)
+
+
 - 👋 Hi, I’m @emreisiktekiner
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
