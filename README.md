@@ -2,7 +2,7 @@
 
 <h1 align="center">
 Hi there, I’m Emre 👋 <br><br>
-<a href="https://www.emreisiktekiner.com/" target="_blank">www.emreisiktekiner.com</a>
+<a href="https://www.emreisiktekiner.com/" target="_blank">Emre</a>
 www.emreisiktekiner.com 📫
   </h1>
 
