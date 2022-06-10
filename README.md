@@ -1,7 +1,6 @@
 ![alt text](https://github.com/emreisiktekiner/emreisiktekiner/blob/main/Cover.png?raw=true)
 
-## The second largest heading
-- Hi there, I’m Emre 👋
+## - Hi there, I’m Emre 👋
 - Reach Me: www.emreisiktekiner.com 📫
 
 <!---
