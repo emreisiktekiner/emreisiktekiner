@@ -1,11 +1,8 @@
 ![alt text](https://github.com/emreisiktekiner/emreisiktekiner/blob/main/Cover.png?raw=true)
 
 
-- 👋 Hi, I’m @emreisiktekiner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi there, I’m Emre 👋
+- Reach Me: www.emreisiktekiner.com 📫
 
 <!---
 emreisiktekiner/emreisiktekiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
